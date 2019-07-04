@@ -1,0 +1,15 @@
+C:\Users\garya\Documents\Developpment\Application\C#\SayHello WPF\SayHello WPF\bin\Debug\SayHello WPF.exe.config
+C:\Users\garya\Documents\Developpment\Application\C#\SayHello WPF\SayHello WPF\bin\Debug\SayHello WPF.exe
+C:\Users\garya\Documents\Developpment\Application\C#\SayHello WPF\SayHello WPF\bin\Debug\SayHello WPF.pdb
+C:\Users\garya\Documents\Developpment\Application\C#\SayHello WPF\SayHello WPF\obj\Debug\SayHello WPF.csprojAssemblyReference.cache
+C:\Users\garya\Documents\Developpment\Application\C#\SayHello WPF\SayHello WPF\obj\Debug\MainWindow.g.cs
+C:\Users\garya\Documents\Developpment\Application\C#\SayHello WPF\SayHello WPF\obj\Debug\App.g.cs
+C:\Users\garya\Documents\Developpment\Application\C#\SayHello WPF\SayHello WPF\obj\Debug\SayHello WPF_MarkupCompile.cache
+C:\Users\garya\Documents\Developpment\Application\C#\SayHello WPF\SayHello WPF\obj\Debug\SayHello WPF_MarkupCompile.lref
+C:\Users\garya\Documents\Developpment\Application\C#\SayHello WPF\SayHello WPF\obj\Debug\MainWindow.baml
+C:\Users\garya\Documents\Developpment\Application\C#\SayHello WPF\SayHello WPF\obj\Debug\SayHello WPF.g.resources
+C:\Users\garya\Documents\Developpment\Application\C#\SayHello WPF\SayHello WPF\obj\Debug\SayHello_WPF.Properties.Resources.resources
+C:\Users\garya\Documents\Developpment\Application\C#\SayHello WPF\SayHello WPF\obj\Debug\SayHello WPF.csproj.GenerateResource.cache
+C:\Users\garya\Documents\Developpment\Application\C#\SayHello WPF\SayHello WPF\obj\Debug\SayHello WPF.csproj.CoreCompileInputs.cache
+C:\Users\garya\Documents\Developpment\Application\C#\SayHello WPF\SayHello WPF\obj\Debug\SayHello WPF.exe
+C:\Users\garya\Documents\Developpment\Application\C#\SayHello WPF\SayHello WPF\obj\Debug\SayHello WPF.pdb

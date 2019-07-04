@@ -1,0 +1,10 @@
+C:\Users\garya\Documents\Developpment\Application\C#\SayHello WF\SayHello WF\bin\Debug\SayHello WF.exe.config
+C:\Users\garya\Documents\Developpment\Application\C#\SayHello WF\SayHello WF\bin\Debug\SayHello WF.exe
+C:\Users\garya\Documents\Developpment\Application\C#\SayHello WF\SayHello WF\bin\Debug\SayHello WF.pdb
+C:\Users\garya\Documents\Developpment\Application\C#\SayHello WF\SayHello WF\obj\Debug\SayHello WF.csprojAssemblyReference.cache
+C:\Users\garya\Documents\Developpment\Application\C#\SayHello WF\SayHello WF\obj\Debug\SayHello_WF.Form1.resources
+C:\Users\garya\Documents\Developpment\Application\C#\SayHello WF\SayHello WF\obj\Debug\SayHello_WF.Properties.Resources.resources
+C:\Users\garya\Documents\Developpment\Application\C#\SayHello WF\SayHello WF\obj\Debug\SayHello WF.csproj.GenerateResource.cache
+C:\Users\garya\Documents\Developpment\Application\C#\SayHello WF\SayHello WF\obj\Debug\SayHello WF.csproj.CoreCompileInputs.cache
+C:\Users\garya\Documents\Developpment\Application\C#\SayHello WF\SayHello WF\obj\Debug\SayHello WF.exe
+C:\Users\garya\Documents\Developpment\Application\C#\SayHello WF\SayHello WF\obj\Debug\SayHello WF.pdb
